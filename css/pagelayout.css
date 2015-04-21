@@ -1,0 +1,12 @@
+.wrap {display:block; font-family:Calibri; margin:30px auto; width: 80%}
+
+em {background-color: #FFF2C1; color:#000; font-style: normal}
+p {margin:20px 0; width:100%; float: left}
+li {}
+
+
+code {background:#333; color:#f1f1f1; display:block; float:left; margin-bottom:20px; padding:20px; width:100%}
+
+.blocker-example1 {display: block; width:100%; float: left}
+
+.box-content {background:#f1f1f1; border: 1px solid #ccc; text-align:center; height:60px}

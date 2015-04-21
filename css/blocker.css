@@ -1,0 +1,26 @@
+/*
+by Di Hercowitz o/
+fb: facebook.com/dihercowitz
+g+: dihercowitz@gmail.com
+in: linkedin.com/in/dihercowitz
+*/
+
+.blocker-grutter>*{padding-left:20px;}
+
+
+/* core
+=========*/
+.blocker-2,.blocker-3,.blocker-4,.blocker-5,.blocker-6,.blocker-7,.blocker-8,.blocker-9,.blocker-10,.blocker-11,.blocker-12{display:block;clear:both;float:left;}
+.blocker-2>*,.blocker-3>*,.blocker-4>*,.blocker-5>*,.blocker-6>*,.blocker-7>*,.blocker-8>*,.blocker-9>*,.blocker-10>*,.blocker-11>*,.blocker-12>*{display: block; float: left; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+.blocker-2>*:nth-child(2n+1),.blocker-3>*:nth-child(3n+1),.blocker-4>*:nth-child(4n+1),.blocker-5>*:nth-child(5n+1),.blocker-6>*:nth-child(6n+1),.blocker-7>*:nth-child(7n+1),.blocker-8>*:nth-child(8n+1),.blocker-9>*:nth-child(9n+1),.blocker-10>*:nth-child(10n+1),.blocker-11>*:nth-child(11n+1).blocker-12>*:nth-child(12n+1){clear:left; padding-left:0;}
+.blocker-2>*{width:50%;}
+.blocker-3>*{width:33.3333%;}
+.blocker-4>*{width:25%;}
+.blocker-5>*{width:20%}
+.blocker-6>*{width:16.6666%;}
+.blocker-7>*{width:14.2857%;}
+.blocker-8>*{width:12.5%;}
+.blocker-9>*{width:11.1111%;}
+.blocker-10>*{width:10%;}
+.blocker-11>*{width:9.0909%;}
+.blocker-12>*{width:8.333333%;}
