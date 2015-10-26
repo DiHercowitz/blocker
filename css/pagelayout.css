@@ -1,5 +1,7 @@
 .wrap {display:block; font-family:Calibri; margin:30px auto; width: 80%}
 
+body {background: #f1f1f1}
+
 em {background-color: #FFF2C1; color:#000; font-style: normal}
 p {margin:20px 0; width:100%; float: left}
 li {}
